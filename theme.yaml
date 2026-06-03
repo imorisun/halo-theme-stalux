@@ -1,16 +1,17 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: astro-starter
+  name: halo-theme-stalux
 spec:
-  displayName: Astro Starter
+  displayName: Stalux
   author:
-    name: Your Name
-    website: https://github.com/YourName
+    name: 晨阳
+    website: https://www.puresky.top
   description: A starter theme for Halo.
   logo: https://www.halo.run/logo
-  homepage: https://github.com/halo-sigs/theme-astro-starter
-  issues: https://github.com/halo-sigs/theme-astro-starter/issues
+  homepage: https://github.com/imorisun/halo-theme-stalux
+  repo: https://github.com/imorisun/halo-theme-stalux.git
+  issues: https://github.com/imorisun/halo-theme-stalux/issues
   version: "1.0.0"
   requires: ">=2.0.0"
   license:
